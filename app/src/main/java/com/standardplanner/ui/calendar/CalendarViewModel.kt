@@ -1,13 +1,13 @@
-package com.standardplanner.ui.home
+package com.standardplanner.ui.calendar
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 
-class HomeViewModel : ViewModel() {
+class CalendarViewModel : ViewModel() {
 
     private val _text = MutableLiveData<String>().apply {
-        value = "This is home Fragment"
+        value = "This is Calendar Fragment"
     }
     val text: LiveData<String> = _text
 }
