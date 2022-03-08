@@ -3,4 +3,10 @@
     <string name="title_inbox">Inbox</string>
     <string name="title_calendar">Calendar</string>
     <string name="title_settings">Settings</string>
+
+    <!-- Settings Fragment-->
+    <string name="account_info">Account Information</string>
+    <string name="about">About</string>
+    <string name="general">General</string>
+    <string name="sign_out">Sign Out</string>
 </resources>
