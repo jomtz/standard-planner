@@ -5,7 +5,9 @@
       <map>
         <entry key="..\:/Users/Josue/Documents/GitHub/standard-planner/app/src/main/res/layout/activity_main.xml" value="0.2522704339051463" />
         <entry key="..\:/Users/Josue/Documents/GitHub/standard-planner/app/src/main/res/layout/fragment_calendar.xml" value="0.18795289855072464" />
+        <entry key="..\:/Users/Josue/Documents/GitHub/standard-planner/app/src/main/res/layout/fragment_inbox.xml" value="0.40443840579710144" />
         <entry key="..\:/Users/Josue/Documents/GitHub/standard-planner/app/src/main/res/layout/fragment_settings.xml" value="0.33" />
+        <entry key="..\:/Users/Josue/Documents/GitHub/standard-planner/app/src/main/res/layout/fragment_task.xml" value="0.2522704339051463" />
       </map>
     </option>
   </component>
